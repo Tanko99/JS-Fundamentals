@@ -5,6 +5,6 @@ Languages.forEach(Language =>{
     } else if (Language === "Python"){
         console.log("Python is cool");
     } else if (Language === "JavaScript"){
-        console.log("JvaScript is amazing");
+        console.log("JavaScript is amazing");
     }
 });
